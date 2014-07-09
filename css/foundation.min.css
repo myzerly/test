@@ -43,17 +43,15 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         	color: white;
         }
         li.bottom-nav {
+        	padding-top: 15px;
         	text-align: center;
         	font-weight: lighter;
         }
         h5.bottom-nav {
-        	padding-top: 10px;
-        	text-align: center;
-        	font-weight: lighter !important;
+			font-weight: lighter !important;
         }
         .LoS {
         	text-align: center;
-        	
         }
         .panel {
         	color: white;
@@ -67,6 +65,12 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         }
         .mobile-nav {
         	background-color: black;
+        }
+        .bottom-h1 {
+        	color: white !important;
+        }
+        span {
+        	font-size: 24px;
         }
    
         
