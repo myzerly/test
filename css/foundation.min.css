@@ -3,7 +3,7 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
           background-color: #F3F3F4;
           font-family: ;
         }
-        header {
+        header.index {
           background-image: url(../img/lospapersproto.jpg);
           background-position: center;
           background-size: cover;
@@ -51,3 +51,39 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         	text-align: center;
         	font-weight: lighter !important;
         }
+        .LoS {
+        	text-align: center;
+        	
+        }
+        .panel {
+        	color: white;
+        }
+        li.mobile-nav {
+        	background-color: black;
+        	border-bottom: 1px solid white;
+        	padding: 10px;
+        	color: white;
+        	font-weight: lighter;
+        }
+        .mobile-nav {
+        	background-color: black;
+        }
+   
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
