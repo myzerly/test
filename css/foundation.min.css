@@ -60,7 +60,7 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         }
         li.mobile-nav {
         	background-color: black;
-        	border-bottom: 1px solid white;
+        	border-bottom: 1px solid #808080;
         	padding: 10px;
         	color: white;
         	font-weight: lighter;
