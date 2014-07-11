@@ -14,17 +14,19 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         } 
         h2.projects {
           	text-align: center;
+         }
+
+        h2, h3, h5 { 	
+         	font-family: "Trebuchet MS", sans-serif;
+         	text-transform: uppercase;
         }
-        h3 {
+        h3, h5 {
           	text-align: center;
-          	font-weight: lighter;
-        }
-        h4 {
-          	font-weight: lighter !important;
-          	text-align: center;
+          	
         }
         p {
-        	font-weight: lighter;
+        	font-family: "Trebuchet MS", sans-serif;
+          	font-weight: lighter;
         }
         .stupid {
        		padding: 20px;
@@ -35,7 +37,6 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
          	border: 2px solid;
           	border-radius: 5px;
           	border-color: white;
-          	font-weight: lighter;
         }
         .terrible {
           	padding: 20px;
@@ -47,7 +48,7 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         li.bottom-nav {
         	padding-top: 15px;
         	text-align: center;
-        	font-weight: lighter;
+        	font-family: "Trebuchet MS";
         }
         h5.bottom-nav {
 			font-weight: lighter !important;
@@ -63,7 +64,8 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         	border-bottom: 1px solid #808080;
         	padding: 10px;
         	color: white;
-        	font-weight: lighter;
+        	font-family: "Trebuchet MS";
+        	
         }
         .mobile-nav {
         	background-color: #333;
