@@ -78,6 +78,9 @@ meta.foundation-version{font-family:"/5.3.0/"}meta.foundation-mq-small{font-fami
         	color: white;
         	background-color: #333333;
         }
+        #nav {
+        	position: absolute;
+        }
       
    
         
